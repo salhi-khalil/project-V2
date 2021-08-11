@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://salhi-khalil:boutchi1986@mongoosews.noxes.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "secretwebtoken"
+}
